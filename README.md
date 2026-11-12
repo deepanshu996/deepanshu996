@@ -14,13 +14,12 @@ Business Process Architect and Automation Engineer at **eMazzanti Technologies**
 
 - **AI agents** on Copilot Studio and Microsoft 365 Copilot that answer questions straight from business systems, in plain English
 - **MCP servers** that connect AI assistants to line-of-business systems with per-user access
-- **An internal operations and billing platform**, built from scratch on Next.js and Azure OpenAI, reconciling data across multiple vendor systems
 - **An AI sales prospecting pipeline** that finds leads, enriches them and pushes them into the CRM on its own
 - **Dozens of Power Automate and n8n workflows** for approvals, ticket routing, notifications, document processing and billing
 
 ## Stack
 
-Power Automate · n8n · Copilot Studio · Microsoft 365 Copilot · Azure OpenAI · MCP · Microsoft Graph · SharePoint · Teams · Next.js
+Power Automate · n8n · Copilot Studio · Microsoft 365 Copilot · Azure OpenAI · MCP · Microsoft Graph · SharePoint · Teams
 
 ## Speaking and training
 
